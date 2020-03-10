@@ -1,2 +1,3 @@
-# deeplearning-course-2020
+# Deep Learning Project
+
 Deep Learning Course 2020
